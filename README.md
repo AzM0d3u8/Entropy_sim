@@ -19,6 +19,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
+![image](https://github.com/user-attachments/assets/7e3cf28b-8ea6-4a9a-a044-b28335396649)
+
+
 ## Concept
 
 - Initially, all particles are concentrated in one grid cell.
@@ -27,3 +30,4 @@ python main.py
 
 ---
 🌌 Inspired by early universe thermodynamics.
+
